@@ -1,4 +1,4 @@
-# react_redux_challenge
+# DESAFIO 
 
 
 # 1 - Criar uma nova página de formulário que contenha os seguintes dados: nome, cpf, salário, cargo, data de nascimento, descrição do cargo e tipo de contratação (CLT, Horista, Freelancer)
